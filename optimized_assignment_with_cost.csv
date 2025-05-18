@@ -1,0 +1,12 @@
+Employee,Assigned_Tasks,Required_Skills,Efficiency,Performance_Rating,Total_Duration
+Person_1,"task5d, task6e, task8a, task9b, task10a, task12a, task17a, task18a, task19a","docker, css, sql",1,4,27
+Person_2,"task2c, task4a, task4c, task5c, task7b, task8b, task10c, task11a, task11c","kubernetes, ruby",1,5,29
+Person_3,"task1a, task2a, task9a, task14a","docker, sql",1,3,12
+Person_4,"task1d, task2b, task6c, task6d","devops, html",1,3,14
+Person_5,"task8c, task9d, task17c, task19c",javascript,1,4,13
+Person_6,"task3a, task3c, task7a","docker, javascript",1,3,13
+Person_7,"task1b, task9e, task10e, task16b",aws,1,5,12
+Person_8,"task1c, task6a, task7c, task10b",python,1,4,12
+Person_9,"task4d, task7d, task8d, task9c, task11b, task12c, task12d, task13e, task16c, task17d, task18c","c++, css, javascript, html",1,5,29
+Person_10,"task3b, task3d, task13c, task14b, task15c, task16d, task19b, task19e","c++, python, devops",1,5,29
+Person_11,"task4b, task5a, task5b, task6b, task10d, task13d, task14c, task15b, task19d","react, docker",1,4,29
