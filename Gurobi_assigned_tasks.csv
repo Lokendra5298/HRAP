@@ -1,0 +1,17 @@
+Employee,Assigned_Tasks,Required_Skills,Total_Hours,Days,19-05-2025,20-05-2025,Person_Contribution (%)
+Anjhu A,Modify Camunda workflow,Camunda,4,"0 days, 4 hours",Modify Camunda workflow (4 hours),available,23.52941176470588
+Inapakurthi Manikanta,Create test cases for new features,Testing,5,"0 days, 5 hours",Create test cases for new features (5 hours),available,29.411764705882355
+Logesh V,Parameter tuning,Python,2,"0 days, 2 hours",Parameter tuning (2 hours),available,11.76470588235294
+Sethuramalingam Nellainayagam,Define deployment steps in Camunda,Camunda,6,"0 days, 6 hours",Define deployment steps in Camunda (6 hours),available,35.294117647058826
+Amol Radheshyam Pardhi,"Implement document addition logic, Write requirements.txt file","Python, Python",8,"1 days, 0 hours","Implement document addition logic (5 hours), Write requirements.txt file (3 hours)",available,47.05882352941176
+Arpit Lad,Design data structure,Python,3,"0 days, 3 hours",Design data structure (3 hours),available,17.647058823529413
+Karanam Sri Ram,Implement DB synchronization logic,SQL,5,"0 days, 5 hours",Implement DB synchronization logic (5 hours),available,29.411764705882355
+Manisha Baid,Set up backend for integration,SQL,3,"0 days, 3 hours",Set up backend for integration (3 hours),available,17.647058823529413
+Youvashri J.,Set up Dialogflow integration,Python,3,"0 days, 3 hours",Set up Dialogflow integration (3 hours),available,17.647058823529413
+Maddi Lalu Sainath,Redeploy updated model,Python,3,"0 days, 3 hours",Redeploy updated model (3 hours),available,17.647058823529413
+Soundharya K,Implement Text2SQL integration,Python,4,"0 days, 4 hours",Implement Text2SQL integration (4 hours),available,23.52941176470588
+Nagarajan N,"Test model performance, Design document schema, Implement document deletion logic","ML, Python, Python",8,"1 days, 0 hours","Test model performance (3 hours), Design document schema (2 hours), Implement document deletion logic (3 hours)",available,47.05882352941176
+Ganesan J,"Validate integration with queries, Write Dockerfile for the application, Integrate git for version control, Identify changes and create changelog, Collate multiple git repos into a single repo","RAG, Docker, Git, Git, Git",17,"2 days, 1 hours","Validate integration with queries (3 hours), Write Dockerfile for the application (3 hours), Integrate git for version control (2 hours)","Integrate git for version control (1 hours), Identify changes and create changelog (2 hours), Collate multiple git repos into a single repo (5 hours)",100.0
+Jayashree Sridharan,Optimize data retrieval logic,Python,4,"0 days, 4 hours",Optimize data retrieval logic (4 hours),available,23.52941176470588
+Siddarth VS,Implement Classifier integration,Python,4,"0 days, 4 hours",Implement Classifier integration (4 hours),available,23.52941176470588
+Sucharitha,"Test and validate data addition, Test deletion functionality","SQL, SQL",5,"0 days, 5 hours","Test and validate data addition (3 hours), Test deletion functionality (2 hours)",available,29.411764705882355
