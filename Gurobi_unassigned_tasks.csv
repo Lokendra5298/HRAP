@@ -1,0 +1,47 @@
+Assigned_Tasks,Required_Skills,Total_Hours
+Test tool integration,API Integration,1
+Implement data vectorization logic,NLP,5
+Store data in separate collections,Data Engineering,2
+Implement orchestration for collections,Data Engineering,5
+Testing optimization for time retrieval,Optimization,1
+Test and validate Dockerfile,Backend Development,2
+Install necessary packages,Backend Development,2
+Perform code review,Code Review,3
+Validate application context uniqueness,Data Management,3
+Set up deployment workflow,Backend Development,4
+Implement workflow logic,Workflow Automation,4
+Integrate Camunda workflow with backend,DevOps,3
+Design new UI components,UX Design,6
+Implement new UI components,Frontend Development,5
+Integrate with backend,HTML/CSS,4
+Design and implement UI changes,UX Design,6
+Integrate backend with new UI,Frontend Development,5
+Update CSS styles,HTML/CSS,3
+Design new UI for Impact analysis page,UX Design,6
+Implement new UI components,Frontend Development,5
+Integrate with backend,HTML/CSS,4
+Implement new workflow steps,Workflow Automation,5
+Design enhancements for Shift Roster dashboard,UI/UX Design,5
+Implement UI changes,Frontend Development,3
+Design enhancements for Travel app dashboard,UI/UX Design,5
+Implement UI changes,Frontend Development,3
+Design chatbot flows,Chatbot Development,5
+Implement NLP for chatbot interaction,NLP,3
+Test chatbot and integrate with website,API Integration,3
+Design SLC module for vendor,Solution Architecture,6
+Implement backend for SLC module,Backend Development,6
+Design landing screen UI,UI/UX Design,3
+Implement landing screen UI,Frontend Development,2
+Design UI for Skills module,UI/UX Design,6
+Implement UI for Skills module,Frontend Development,6
+Set up backend service,Backend Development,8
+Implement API for Skills,API Development,5
+Integrate system components,System Integration,8
+Test system integration,Backend Development,6
+Implement UI fixes based on UAT comments,UI/UX Design,4
+Update front-end code,Frontend Development,4
+Execute test cases,Test Automation,5
+Implement Talent Screener functionality,Backend Development,5
+Design UI for Talent Screener,UI/UX Design,3
+Design automation flow,Backend Development,4
+Implement API for travel automation,API Integration,3
